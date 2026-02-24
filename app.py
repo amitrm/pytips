@@ -232,4 +232,5 @@ st.success(tip["advice"])
 st.code(tip["snippet"], language="python")
 
 st.divider()
-st.caption("Disclaimer: Tips are funny. The Python is real.")
+st.caption("⚠️ Disclaimer: Tips are funny. The Python is real.")
+st.caption("🧩 Put together by [amitrm](https://github.com/amitrm). ⚙️ Built with [Streamlit](https://streamlit.io).")
